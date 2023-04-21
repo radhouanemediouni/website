@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+body {
+  background-image: url(https://img.freepik.com/photos-premium/pre-lavande_157744-242.jpg?w=360);
+}
+header {
+}
+li {
+  display: flex;
+}
+li {
+  gap: 10px;
+}
+li {
+  text-align: justify;
+}
+ul > li + h4 {
+  text-align: justify;
+}
+body {
+}
